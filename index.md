@@ -1,6 +1,7 @@
-# **Welcome to my page!**
+# LAB REPORT 1
 
-## My name is *Khoi Nguyen*
+**Welcome to my page! :3**
 
-![Image]([http://url/a.png](https://www.instagram.com/p/COHSTVtDEsE/))
+My name is *Khoi Nguyen*
+
 
