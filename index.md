@@ -4,4 +4,4 @@
 
 My name is *Khoi Nguyen*
 
-![Image](image.JPG)
+![Image](DSC_1462.jpg)
