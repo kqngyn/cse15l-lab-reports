@@ -3,6 +3,7 @@
 ## **Welcome to my page! :)**
 
 My name is *Khoi Nguyen*
+
 Incoming CSE15L and even my future-self: welcome to 15L! This blog post will detail steps to get you started for the course!
 
 ## **Part 1**
