@@ -3,9 +3,8 @@
 ## **Welcome to my page! :)**
 
 My name is *Khoi Nguyen*
-Incoming CSE15L and even my future-self: welcome to 15L! This blog post will detail steps to get your started for the course!
+Incoming CSE15L and even my future-self: welcome to 15L! This blog post will detail steps to get you started for the course!
 
----
 ## **Part 1**
 *First we will be setting up your course-specific account for CSE15L*
     - Step 1: To get started, click the link below:
@@ -16,10 +15,13 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
 *Things To Know*: 1. Save your newly created password in a safe place! You will be needing it later on!
                   2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.
 
----
 ## **Part 2**
 *Installing Visual Studio Code*
-
+    - Step 1: Click the following link to install VSCode:
+              [Link](https://code.visualstudio.com/)
+              Follow the instructions on the website to install. Be sure to download the VSCode version for your respective operating system (macOS for Macs and Windows for PCs)
+    - Step 2: Run and open your VSCode. You should see something like this:
+    
 
 
 You’ll submit a lab report by writing a blog post about remote access, like we just described using Github Pages. The lab report is due Monday, April 10 by 10pm. See the FAQ below for common questions, including how to add images and what to submit to Gradescope.
