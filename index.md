@@ -9,7 +9,7 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
 ## **Part 1**
 *First we will be setting up your course-specific account for CSE15L*<br>
    - Step 1: To get started, click the link below:<br>
-              [Link](https://sdacs.ucsd.edu/~icc/index.php)<br>         
+              [Li](https://sdacs.ucsd.edu/~icc/index.php)<br>         
    - Step 2: Once you have signed in, follow the instructions on the following link!<br>
               [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)<br> 
               
