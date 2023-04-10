@@ -19,7 +19,7 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
 2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.
 
 ## **Part 2**
-*Installing Visual Studio Code*
+*Installing Visual Studio Code*<br>
     - Step 1: Click the following link to install VSCode:
               [Link](https://code.visualstudio.com/)
               Follow the instructions on the website to install. Be sure to download the VSCode version for your respective operating system (macOS for Macs and Windows for PCs)<br>          
