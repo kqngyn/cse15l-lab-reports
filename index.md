@@ -10,11 +10,11 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
 *First we will be setting up your course-specific account for CSE15L*
     <p>- Step 1: To get started, click the link below:</p>
              <p> [Link](https://sdacs.ucsd.edu/~icc/index.php) </p>         
-    - Step 2: Once you have signed in, follow the instructions on the following link!
-              [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
+    <p>- Step 2: Once you have signed in, follow the instructions on the following link!</p>
+             <p> [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) </p>
               
 *Things To Know*: 1. Save your newly created password in a safe place! You will be needing it later on!
-                  2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.
+                 <p> 2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.</p>
 
 ## **Part 2**
 *Installing Visual Studio Code*
