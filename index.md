@@ -14,13 +14,16 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
              <p> [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) </p>
               
 *Things To Keep In Mind*
-1. Save your newly created password in a safe place! You will be needing it later on!<br>2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.
+1. Save your newly created password in a safe place! You will be needing it later on!
+
+2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.
 
 ## **Part 2**
 *Installing Visual Studio Code*
     - Step 1: Click the following link to install VSCode:
               [Link](https://code.visualstudio.com/)
               Follow the instructions on the website to install. Be sure to download the VSCode version for your respective operating system (macOS for Macs and Windows for PCs)
+              
     - Step 2: Run and open your VSCode. You should see something like this:
     
 
