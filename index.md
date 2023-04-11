@@ -32,6 +32,8 @@ To preface, it is important to understand that we will be using the course stude
      - Step 2: Type in:<br>
      
      - ssh *your_account_name*@ieng6.ucsd.edu
+*Note that if you do not remember your account name, it can be found on [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br> Refer to the image below*<br>
+![Image](referss.jpg)<br>
 
               
 
