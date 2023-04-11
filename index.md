@@ -30,8 +30,7 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
 To preface, it is important to understand that we will be using the course student account in the terminal. In turn, all of the files will be on this account as well. The following instructions will help us understand how to log into a course-specific account on ieng6.<br>
      - Step 1: On the very top of the screen where the menu and page toolbar is located.<br>Select "Terminal" tab then select "New Terminal".<br> This will open a terminal where you will work on.<br> ![Image](toolbarss.jpg)<br><br>![Image](toolbar1ss.jpg)<br>
      - Step 2: Type in:<br>
-     
-     - ssh *your_CSE15L_username*@ieng6.ucsd.edu
+     "ssh *your_CSE15L_username*@ieng6.ucsd.edu"<br>
 *Note that if you do not remember your CSE15L account username, it can be found on [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br> Refer to the image below*<br>
 ![Image](referss.jpg)<br>
      - Step 3: You will see a message that looks like:<br>
