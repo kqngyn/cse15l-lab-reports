@@ -30,7 +30,10 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
 To preface, it is important to understand that we will be using the course student account in the terminal. In turn, all of the files will be on this account as well. The following instructions will help us understand how to log into a course-specific account on ieng6.<br>
      - Step 1: On the very top of the screen where the menu and page toolbar is located.<br>Select "Terminal" tab then select "New Terminal".<br> This will open a terminal where you will work on.<br> ![Image](toolbarss.jpg)<br><br>![Image](toolbar1ss.jpg)<br>
      - Step 2: Type in:<br>
-     "ssh *your_CSE15L_username*@ieng6.ucsd.edu"<br>
+     
+     ssh *your_CSE15L_username*@ieng6.ucsd.edu
+ 
+<br>
 *Note that if you do not remember your CSE15L account username, it can be found on [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br> Refer to the image below*<br>
 ![Image](referss.jpg)<br>
      - Step 3: You will see a message that looks like:<br>
@@ -43,7 +46,7 @@ To preface, it is important to understand that we will be using the course stude
      - Step 5: After you have completed these steps, you should see this: ![Image](ss2.jpg)<br>If you see this message, congratulations! You have successfully logged in and now ready to try some commands :D<br>
      
 ## **Part 4**
-*Running commands on the terminal*
+*Running commands on the terminal*<br>
      - Below are a list of some useful commands to try out:<br>
      
      - pwd - Find the path of your current working directory.
@@ -54,7 +57,7 @@ To preface, it is important to understand that we will be using the course stude
      - cat - Concatenate, or cat, is one of the most frequently used Linux commands.
              It lists, combines, and writes file content to the standard output. 
              To run the cat command, type cat followed by the file name and its extension.
-   
+ <br>  
  To explore more commands, here's a list of some basic commands: [40 Essential Linux Commands That Every User Should Know](https://www.hostinger.com/tutorials/linux-commands)<br>
  ![Image](vscss2.jpg)<br>
  *Above is a screenshot of some commands that I have tried. As you can see I first used the 'ls' command and it listed some files and directories on the account. Then I used the 'pwd' command and it printed the path of my current working directory which is 'home/linux/ieng6/cs15lsp23/cs15lsp23kp*<br>
