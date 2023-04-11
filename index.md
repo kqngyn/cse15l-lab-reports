@@ -26,7 +26,7 @@ Incoming CSE15L and even my future-self: welcome to 15L! This blog post will det
               ![Image](vsc1.jpg)<br>
               
 ## **Part 3**
-*Using Terminal via VSCode*
+*Using Terminal via VSCode*<br>
 To preface, it is important to understand that we will be using the course student account in the terminal. In turn, all of the files will be on this account as well. The following instructions will help us understand how to log into a course-specific account on ieng6.<br>
      - Step 1: On the very top of the screen where the menu and page toolbar is located.<br>Select "Terminal" tab then select "New Terminal".<br> This will open a terminal where you will work on.<br> ![Image](toolbarss.jpg)<br><br>![Image](toolbar1ss.jpg)<br>
      - Step 2: Type in:<br>
