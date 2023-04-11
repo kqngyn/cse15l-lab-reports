@@ -47,8 +47,20 @@ To preface, it is important to understand that we will be using the course stude
 *Running commands on the terminal*
      - Below are a list of some useful commands to try out:<br>
      
-     - pwd -> find the path of your current working directory<br>
-     - cd -> to navigate through the Linux files and directories, use the cd command. Depending on your current working directory, it requires either the full path or the directory name<br>
+     - pwd - Find the path of your current working directory.
+     - cd - To navigate through the Linux files and directories, use the cd command.
+            Depending on your current working directory, it requires either the full path or the directory name.
+     - ls - The ls command lists files and directories within a system.
+            Running it without a flag or parameter will show the current working directory’s content.
+     - cat - Concatenate, or cat, is one of the most frequently used Linux commands.
+             It lists, combines, and writes file content to the standard output. 
+             To run the cat command, type cat followed by the file name and its extension.
+ To explore more commands, here's a list of some basic commands: [40 Essential Linux Commands That Every User Should Know](https://www.hostinger.com/tutorials/linux-commands)<br>
+ ![Image](vscss2.jpg)<br>
+ *Above is a screenshot of some commands that I have tried. As you can see I first used the 'ls' command and it listed some files and directories on the account. Then I used the 'pwd' command and it printed the path of my current working directory which is 'home/linux/ieng6/cs15lsp23/cs15lsp23kp*<br>
+ 
+ <pr> In summary, we logged into the specific course account and resetted the password. From there we installed VScode, remotely connecting in terminal and connected to the correct server, and tried some commands. This blog posts goes beyond the scope of just instructions. Here I added some tips and addressed some issues that I, and my groupmates, have encountered.</pr>
+
      
 
               
