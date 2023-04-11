@@ -35,13 +35,13 @@ To preface, it is important to understand that we will be using the course stude
  
 <br>
 *Note that if you do not remember your CSE15L account username, it can be found on [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br> Refer to the image below*<br>
-![Image](referss.jpg)<br>
+![Image](referss.jpg)<br><br>
      - Step 3: You will see a message that looks like:<br>
      ![Image](ss1.jpg)<br>
-     This occurs because this is likely the first time you’ve connected to this server. Type in 'yes' and press enter.<br>
+     This occurs because this is likely the first time you’ve connected to this server. Type in 'yes' and press enter.<br><br>
      - Step 4: Afterwards type in your NEW password that you created when you resetted your password.<br>
      *Remember to use the password for your CSE15L course specifc account and NOT your UCSD SSO password*<br>
-     ![Image](pass1ss.jpg)<br>
+     ![Image](pass1ss.jpg)<br><br>
      **PRO TIP!** There will be no signifer (such as asterisks) to indicate if you are typing in your password or not. Do not be alarmed. I recommend typing your password out on a different page such as the Notes app and copy and paste it over.<br>
      - Step 5: After you have completed these steps, you should see this: ![Image](ss2.jpg)<br>If you see this message, congratulations! You have successfully logged in and now ready to try some commands :D<br>
      
