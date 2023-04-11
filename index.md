@@ -6,15 +6,17 @@ My name is *Khoi Nguyen*<br>
 Incoming CSE15L and even my future-self: welcome to 15L! This blog post will detail steps to get you started for the course!
 
 ## **Part 1**
-*First we will be setting up your course-specific account for CSE15L*<br>
+*First we will be setting up your course-specific account for CSE15L and resetting the password this specific course account*<br>
    - Step 1: To get started, click the link below:<br>
               [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br>         
    - Step 2: Once you have signed in, follow the instructions on the following link!<br>
               [Tutorial: HOW TO RESET YOUR CSE15L PASSWORD](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)<br> 
               
 *Things To Keep In Mind*<br>
-1. Save your newly created password in a safe place! You will be needing it later on!<br>
-2. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.<br>
+1. A problem I ran into was that I clicked "UC San Diego Active Directory (AD) Password Change Tool" rather than selecting the specific course. If you do this, you will end up changing the password for your entire UCSD student account. We only want to change the password for this specific course account so pay attention! (See imagine below)<br>
+![image](acc ss.jpg)<br>
+3. Save your newly created password in a safe place! You will be needing it later on!<br>
+4. If you’ve reset and you’re waiting a few minutes for it to take effect, feel free to start working on later sections of the lab.<br>
 
 ## **Part 2**
 *Installing Visual Studio Code*<br>
