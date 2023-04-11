@@ -57,8 +57,10 @@ To preface, it is important to understand that we will be using the course stude
      - cat - Concatenate, or cat, is one of the most frequently used Linux commands.
              It lists, combines, and writes file content to the standard output. 
              To run the cat command, type cat followed by the file name and its extension.
+ 
  <br>  
  To explore more commands, here's a list of some basic commands: [40 Essential Linux Commands That Every User Should Know](https://www.hostinger.com/tutorials/linux-commands)<br>
+ 
  ![Image](vscss2.jpg)<br>
  *Above is a screenshot of some commands that I have tried. As you can see I first used the 'ls' command and it listed some files and directories on the account. Then I used the 'pwd' command and it printed the path of my current working directory which is 'home/linux/ieng6/cs15lsp23/cs15lsp23kp*<br>
  
