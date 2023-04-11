@@ -31,9 +31,16 @@ To preface, it is important to understand that we will be using the course stude
      - Step 1: On the very top of the screen where the menu and page toolbar is located.<br>Select "Terminal" tab then select "New Terminal".<br> This will open a terminal where you will work on.<br> ![Image](toolbarss.jpg)<br><br>![Image](toolbar1ss.jpg)<br>
      - Step 2: Type in:<br>
      
-     - ssh *your_account_name*@ieng6.ucsd.edu
-*Note that if you do not remember your account name, it can be found on [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br> Refer to the image below*<br>
+     - ssh *your_CSE15L_username*@ieng6.ucsd.edu
+*Note that if you do not remember your CSE15L account username, it can be found on [Your CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)<br> Refer to the image below*<br>
 ![Image](referss.jpg)<br>
+     - Step 3: You will see a message that looks like:<br>
+     ![Image](ss1.jpg)<br>
+     This occurs because this is likely the first time you’ve connected to this server. Type in 'yes' and press enter.<br>
+     - Step 4: Afterwards type in your NEW password that you created when you resetted your password.<br>
+     *Remember to use the password for your CSE15L course specifc account and NOT your UCSD SSO password*<br>
+     ![Image](pass1ss.jpg)<br>
+     **PRO TIP!** There will be no signifer (such as asterisks) to indicate if you are typing in your password or not. Do not be alarmed. I recommend typing your password out on a different page such as the Notes app and copy and paste it over.<br>
 
               
 
