@@ -41,6 +41,15 @@ To preface, it is important to understand that we will be using the course stude
      *Remember to use the password for your CSE15L course specifc account and NOT your UCSD SSO password*<br>
      ![Image](pass1ss.jpg)<br>
      **PRO TIP!** There will be no signifer (such as asterisks) to indicate if you are typing in your password or not. Do not be alarmed. I recommend typing your password out on a different page such as the Notes app and copy and paste it over.<br>
+     - Step 5: After you have completed these steps, you should see this: ![Image](ss2.jpg)<br>If you see this message, congratulations! You have successfully logged in and now ready to try some commands :D<br>
+     
+## **Part 4**
+*Running commands on the terminal*
+     - Below are a list of some useful commands to try out:<br>
+     
+     - pwd -> find the path of your current working directory<br>
+     - cd -> to navigate through the Linux files and directories, use the cd command. Depending on your current working directory, it requires either the full path or the directory name<br>
+     
 
               
 
